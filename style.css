@@ -90,4 +90,8 @@ a  {
         cursor: pointer;
     }
 
+    main {
+        padding: 2.5rem;
+    }
+
   }
